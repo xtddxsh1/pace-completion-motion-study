@@ -34,4 +34,4 @@ Open an issue with the requested changes and player/version for a fit check. Kee
 
 Original artwork and application code: MIT, see `LICENSE`. The third-party player retains its own MIT licence. No customer assets or external artwork are included. This work uses Codex for coding and testing and does not claim independent human review.
 
-The initial repository commit is the published source snapshot. Revert subsequent commits to restore it, or use the same commit's files as a rollback reference.
+The source publication snapshot is commit `f00536598a8bf8d0802cb09b338ca6b130dc27ae`. Restore files from that revision for rollback; the preceding automatic repository-initialisation commit contains only a placeholder README.
