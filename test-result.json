@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-10-04T03:43:00.684Z",
+  "passed": true,
+  "checks": [
+    "lottie SVG renderer loaded",
+    "frame 0 and completed frame have distinct SVG",
+    "slider seeks and pauses at frame 48",
+    "replay completes once and holds",
+    "download matches original JSON",
+    "390px responsive without overflow",
+    "reduced-motion opens paused at finished frame",
+    "no JavaScript errors or remote requests",
+    "2-second vector animation has no image assets"
+  ],
+  "browser": "headless Chromium or installed Edge fallback",
+  "unverified": [
+    "native iOS player",
+    "native Android player",
+    "customer application integration"
+  ],
+  "errors": [],
+  "external": []
+}
